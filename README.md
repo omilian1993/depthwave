@@ -1,1 +1,1 @@
-# Depthwave is a source code in C++ of software for rendering sea-spectrum waves with Ogre3d and Hydrax.
+# Depthwave is a C++ program that uses Ogre3d and Hydrax libraries to create realistic ocean waves based on sea-spectrum models. It is a software for simulating water surfaces with dynamic lighting and reflections.
